@@ -1,0 +1,3 @@
+This is an example of a commit that will be pushed to origin and merged into the develop branch.
+
+Reminder to delete later.
